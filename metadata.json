@@ -1,0 +1,6 @@
+{
+  "name": "ATS Pro Resume Builder",
+  "description": "An AI-powered ATS-friendly Resume Builder that analyzes resumes against job descriptions, provides optimization scores, and transforms resumes for maximum impact using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
